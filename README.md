@@ -7,6 +7,8 @@ In case you have data.frame with two factors and some other variable and want cr
 matrix with first factor on columns and second on rows you can use this function. For
 example:
 
+<img src="https://bookdown.org/yihui/rmarkdown/images/cover.png"  align="center">
+
 
 **arguments**:
 + data - input data frame;
